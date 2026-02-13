@@ -1,0 +1,129 @@
+.team-container1 {
+  width: 100%;
+  display: block;
+  min-height: 100vh;
+}
+ 
+.team-container2 {
+  flex: 0 0 auto;
+  height: 146px;
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.team-container3 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 164px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+ 
+.team-text10 {
+  color: rgb(255, 255, 255);
+  display: inline-block;
+  font-size: 64px;
+  line-height: 3;
+}
+ 
+.team-image10 {
+  width: 511px;
+  height: 407px;
+  object-fit: contain;
+  margin-bottom: 20px;
+}
+ 
+.team-thq-faculty-section-elm {
+  height: 1233px;
+}
+ 
+.team-image11 {
+  width: 200px;
+  object-fit: cover;
+}
+ 
+.team-navlink {
+  box-shadow: rgb(212, 212, 212) 5px 5px 10px 0px;
+  text-decoration: none;
+}
+ 
+.team-image13 {
+  width: 182px;
+  height: 216px;
+  object-fit: cover;
+}
+ 
+.team-image15 {
+  width: 195px;
+  height: 191px;
+  object-fit: cover;
+}
+ 
+.team-image17 {
+  width: 188px;
+  height: 217px;
+  object-fit: cover;
+}
+ 
+.team-image19 {
+  width: 200px;
+  object-fit: cover;
+}
+ 
+.team-thq-students-section-elm {
+  height: 1217px;
+  padding-bottom: 0px;
+}
+ 
+.team-thq-container-inner-elm2 {
+  height: 1187px;
+}
+ 
+.team-image21 {
+  width: 376px;
+  height: 374px;
+  object-fit: cover;
+}
+ 
+.team-image22 {
+  width: 382px;
+  height: 376px;
+  object-fit: cover;
+}
+ 
+.team-image23 {
+  width: 391px;
+  height: 376px;
+  object-fit: cover;
+}
+ 
+.team-image24 {
+  width: 377px;
+  height: 370px;
+  object-fit: cover;
+}
+ 
+.team-image25 {
+  width: 378px;
+  height: 369px;
+  object-fit: cover;
+}
+ 
+.team-thq-student-card-elm6 {
+  width: 520px;
+}
+ 
+.team-image26 {
+  width: 374px;
+  height: 367px;
+  object-fit: cover;
+}
+ 
+.team-container4 {
+  display: none;
+}
+ 
+.team-container5 {
+  display: contents;
+}

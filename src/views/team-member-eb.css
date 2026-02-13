@@ -1,0 +1,42 @@
+.team-member-eb-container1 {
+  width: 100%;
+  display: block;
+  min-height: 100vh;
+}
+ 
+.team-member-eb-thq-team-section-elm {
+  height: 843px;
+  padding-top: 85px;
+  padding-bottom: 114px;
+}
+ 
+.team-member-eb-thq-team-card-wrapper-elm {
+  width: 1168px;
+  height: 681px;
+}
+ 
+.team-member-eb-thq-member-card-elm {
+  width: 992px;
+  height: 537px;
+}
+ 
+.team-member-eb-thq-member-info-side-elm {
+  width: 777px;
+  height: 779px;
+  padding-top: 29px;
+  margin-right: 39px;
+  padding-right: 0px;
+  padding-bottom: 202px;
+}
+ 
+.team-member-eb-thq-section-content-elm2 {
+  height: 231px;
+}
+ 
+.team-member-eb-container2 {
+  display: none;
+}
+ 
+.team-member-eb-container3 {
+  display: contents;
+}

@@ -1,0 +1,149 @@
+.banner15-container1 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  position: relative;
+  align-items: center;
+  padding-bottom: 0px;
+}
+ 
+.banner15-thq-max-width-elm {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.banner15-container2 {
+  gap: var(--dl-layout-space-halfunit);
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.banner15-thq-footer-root-elm {
+  width: 1707px;
+  height: 396px;
+}
+ 
+.banner15-thq-footer-brand-column-elm1 {
+  width: 539px;
+  height: 222px;
+}
+ 
+.banner15-thq-footer-brand-name-elm1 {
+  font-size: 32px;
+}
+ 
+.banner15-thq-footer-brand-description-elm1 {
+  width: 364px;
+  height: 73px;
+  text-align: left;
+}
+ 
+.banner15-text10 {
+  font-size: 18px;
+  text-align: left;
+}
+ 
+.banner15-text11 {
+  font-size: 18px;
+  text-align: left;
+}
+ 
+.banner15-thq-footer-social-links-elm1 {
+  width: 393px;
+}
+ 
+.banner15-thq-footer-column-title-elm1 {
+  font-size: 24px;
+}
+ 
+.banner15-thq-footer-contact-column-elm1 {
+  width: 147px;
+  height: 262px;
+}
+ 
+.banner15-thq-footer-column-title-elm2 {
+  font-size: 24px;
+}
+ 
+.banner15-thq-footer-contact-item-elm1 {
+  width: 329px;
+  height: 96px;
+}
+ 
+.banner15-container3 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
+ 
+.banner15-text26 {
+  text-align: left;
+}
+ 
+.banner15-thq-footer-brand-column-elm2 {
+  width: 539px;
+  height: 222px;
+}
+ 
+.banner15-thq-footer-brand-name-elm2 {
+  font-size: 32px;
+}
+ 
+.banner15-thq-footer-brand-description-elm2 {
+  width: 364px;
+  height: 73px;
+  text-align: left;
+}
+ 
+.banner15-text28 {
+  font-size: 18px;
+  text-align: left;
+}
+ 
+.banner15-text29 {
+  font-size: 18px;
+  text-align: left;
+}
+ 
+.banner15-thq-footer-social-links-elm2 {
+  width: 393px;
+}
+ 
+.banner15-thq-footer-column-title-elm3 {
+  font-size: 24px;
+}
+ 
+.banner15-thq-footer-contact-column-elm2 {
+  width: 147px;
+  height: 262px;
+}
+ 
+.banner15-thq-footer-column-title-elm4 {
+  font-size: 24px;
+}
+ 
+.banner15-thq-footer-contact-item-elm3 {
+  width: 329px;
+  height: 96px;
+}
+ 
+.banner15-container4 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
+ 
+.banner15-text44 {
+  text-align: left;
+}
+ 
+.banner15-thq-footer-container-elm {
+  width: 1187px;
+}

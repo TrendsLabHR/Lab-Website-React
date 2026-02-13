@@ -1,0 +1,9 @@
+.contact1-thq-contact20-elm {
+  gap: var(--dl-layout-space-threeunits);
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}

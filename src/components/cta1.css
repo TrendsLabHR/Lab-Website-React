@@ -1,0 +1,74 @@
+.cta1-container {
+  gap: var(--dl-layout-space-threeunits);
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  flex-direction: column;
+}
+ 
+.cta1-thq-max-width-elm {
+  width: 100%;
+  display: flex;
+  max-width: var(--dl-layout-size-maxwidth);
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.cta1-thq-content-elm {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.cta1-thq-heading1-elm {
+  text-align: center;
+}
+ 
+.cta1-thq-content1-elm {
+  text-align: center;
+}
+ 
+.cta1-thq-actions-elm {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.cta1-thq-action1-elm {
+  text-align: center;
+}
+ 
+.cta1-thq-action2-elm {
+  text-align: center;
+}
+ 
+.cta1-text1 {
+  display: inline-block;
+}
+ 
+.cta1-text2 {
+  display: inline-block;
+}
+ 
+.cta1-text3 {
+  display: inline-block;
+}
+ 
+.cta1-text4 {
+  display: inline-block;
+}
+ 
+@media(max-width: 479px) {
+  .cta1-thq-actions-elm {
+    width: 100%;
+    flex-direction: column;
+  }
+  .cta1-thq-button-elm1 {
+    width: 100%;
+  }
+  .cta1-thq-button-elm2 {
+    width: 100%;
+  }
+}

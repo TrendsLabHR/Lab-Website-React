@@ -1,0 +1,129 @@
+.features5-thq-layout223-elm {
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: row;
+  justify-content: center;
+}
+ 
+.features5-thq-max-width-elm {
+  gap: var(--dl-layout-space-threeunits);
+}
+ 
+.features5-thq-list-elm {
+  align-self: stretch;
+  align-items: flex-start;
+}
+ 
+.features5-thq-content-elm2 {
+  gap: var(--dl-layout-space-unit);
+  align-items: flex-start;
+}
+ 
+.features5-thq-content-elm3 {
+  gap: var(--dl-layout-space-unit);
+  align-items: flex-start;
+}
+ 
+.features5-thq-content-elm4 {
+  gap: var(--dl-layout-space-unit);
+  align-items: flex-start;
+}
+ 
+.features5-text1 {
+  display: inline-block;
+}
+ 
+.features5-text2 {
+  display: inline-block;
+}
+ 
+.features5-text3 {
+  display: inline-block;
+}
+ 
+.features5-text4 {
+  display: inline-block;
+}
+ 
+.features5-text5 {
+  display: inline-block;
+}
+ 
+.features5-text6 {
+  display: inline-block;
+}
+ 
+.features5-text7 {
+  display: inline-block;
+}
+ 
+.features5-text8 {
+  display: inline-block;
+}
+ 
+@media(max-width: 991px) {
+  .features5-thq-layout223-elm {
+    flex-direction: column;
+  }
+  .features5-thq-max-width-elm {
+    flex-direction: column;
+  }
+  .features5-thq-title2-elm {
+    text-align: center;
+  }
+  .features5-thq-description2-elm {
+    text-align: left;
+  }
+  .features5-thq-content-elm3 {
+    align-items: flex-start;
+  }
+  .features5-thq-title3-elm {
+    text-align: center;
+  }
+  .features5-thq-description3-elm {
+    text-align: left;
+  }
+  .features5-thq-content-elm4 {
+    align-items: flex-start;
+  }
+  .features5-thq-title1-elm {
+    text-align: center;
+  }
+  .features5-thq-description1-elm {
+    text-align: left;
+  }
+  .features5-thq-actions-elm {
+    align-items: center;
+  }
+  .features5-thq-button-elm1 {
+    width: 100%;
+  }
+  .features5-thq-button-elm2 {
+    width: 100%;
+  }
+}
+ 
+@media(max-width: 479px) {
+  .features5-thq-list-item-elm1 {
+    gap: var(--dl-layout-space-unit);
+  }
+  .features5-thq-list-item-elm2 {
+    gap: var(--dl-layout-space-unit);
+  }
+  .features5-thq-actions-elm {
+    width: 100%;
+    flex-wrap: wrap;
+    margin-top: var(--dl-layout-space-unit);
+  }
+  .features5-thq-button-elm1 {
+    width: 100%;
+  }
+  .features5-thq-button-elm2 {
+    width: 100%;
+  }
+}

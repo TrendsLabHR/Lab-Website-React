@@ -1,0 +1,40 @@
+.banner12-container1 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  position: relative;
+  align-items: center;
+}
+ 
+.banner12-thq-max-width-elm {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.banner12-container2 {
+  gap: var(--dl-layout-space-halfunit);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.banner12-thq-title-elm {
+  text-align: center;
+}
+ 
+.banner12-text1 {
+  text-align: center;
+}
+ 
+.banner12-text3 {
+  display: inline-block;
+}
+ 
+.banner12-text4 {
+  display: inline-block;
+}
+ 
+.banner12-text5 {
+  display: inline-block;
+}

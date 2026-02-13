@@ -1,0 +1,46 @@
+.banner26-container1 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.banner26-thq-max-width-elm {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.banner26-container2 {
+  gap: var(--dl-layout-space-halfunit);
+  display: flex;
+  z-index: 100;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.banner26-thq-title-elm {
+  text-align: center;
+}
+ 
+.banner26-text1 {
+  text-align: center;
+}
+ 
+.banner26-button {
+  z-index: 100;
+}
+ 
+.banner26-text3 {
+  display: inline-block;
+}
+ 
+.banner26-text4 {
+  display: inline-block;
+}
+ 
+.banner26-text5 {
+  display: inline-block;
+}

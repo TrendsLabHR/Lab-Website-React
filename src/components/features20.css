@@ -1,0 +1,106 @@
+.features20-thq-layout349-elm {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.features20-thq-max-width-elm {
+  gap: var(--dl-layout-space-fiveunits);
+  display: flex;
+  align-items: center;
+}
+ 
+.features20-thq-content-elm1 {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.features20-thq-section-title-elm {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.features20-thq-content-elm2 {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.features20-thq-actions-elm {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+}
+ 
+.features20-thq-button-elm1 {
+  padding-top: var(--dl-layout-space-halfunit);
+  padding-left: var(--dl-layout-space-oneandhalfunits);
+  padding-right: var(--dl-layout-space-oneandhalfunits);
+  padding-bottom: var(--dl-layout-space-halfunit);
+}
+ 
+.features20-thq-button-elm2 {
+  padding-top: var(--dl-layout-space-halfunit);
+  padding-left: var(--dl-layout-space-oneandhalfunits);
+  padding-right: var(--dl-layout-space-oneandhalfunits);
+  padding-bottom: var(--dl-layout-space-halfunit);
+}
+ 
+.features20-thq-image-container-elm {
+  flex: 1;
+  display: flex;
+  align-items: center;
+}
+ 
+.features20-thq-placeholder-image-elm {
+  border-radius: var(--dl-layout-radius-radius4);
+}
+ 
+.features20-text1 {
+  display: inline-block;
+}
+ 
+.features20-text2 {
+  display: inline-block;
+}
+ 
+.features20-text3 {
+  display: inline-block;
+}
+ 
+.features20-text4 {
+  display: inline-block;
+}
+ 
+.features20-text5 {
+  display: inline-block;
+}
+ 
+@media(max-width: 991px) {
+  .features20-thq-max-width-elm {
+    gap: var(--dl-layout-space-twounits);
+    flex-direction: column-reverse;
+  }
+}
+ 
+@media(max-width: 479px) {
+  .features20-thq-actions-elm {
+    width: 100%;
+    flex-direction: column;
+  }
+  .features20-thq-button-elm1 {
+    width: 100%;
+  }
+  .features20-thq-button-elm2 {
+    width: 100%;
+  }
+}

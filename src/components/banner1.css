@@ -1,0 +1,38 @@
+.banner1-container1 {
+  gap: var(--dl-layout-space-unit);
+  height: 161px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  padding-top: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+}
+ 
+.banner1-thq-max-width-elm {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.banner1-container2 {
+  gap: var(--dl-layout-space-halfunit);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.banner1-thq-title-elm {
+  height: 68px;
+  text-align: center;
+}
+ 
+.banner1-text {
+  display: inline-block;
+}
+ 
+.banner1root-class-name {
+  background-color: var(--color-outline);
+}

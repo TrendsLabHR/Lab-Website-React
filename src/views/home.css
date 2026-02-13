@@ -1,0 +1,56 @@
+.home-container1 {
+  width: 100%;
+  display: block;
+  min-height: 100vh;
+}
+ 
+.home-thq-hero-content-wrapper-elm {
+  width: 1678px;
+}
+ 
+.home-thq-hero-title-elm {
+  width: 961px;
+  height: 388px;
+}
+ 
+.home-text10 {
+  font-size: 74px;
+  font-family: "Merriweather";
+  font-weight: 700;
+}
+ 
+.home-thq-hero-subtitle-elm {
+  fill: var(--color-outline);
+  color: var(--color-outline);
+  font-size: 26px;
+}
+ 
+.home-text12 {
+  font-size: 20px;
+}
+ 
+.home-text13 {
+  font-size: 20px;
+  text-transform: capitalize;
+}
+ 
+.home-thq-links-grid-elm {
+  width: 1144px;
+}
+ 
+.home-thq-section-title-elm3 {
+  text-decoration: none;
+}
+ 
+.home-link6 {
+  font-weight: 700;
+  text-decoration: underline;
+}
+ 
+.home-container2 {
+  display: none;
+}
+ 
+.home-container3 {
+  display: contents;
+}

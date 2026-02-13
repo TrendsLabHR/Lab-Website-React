@@ -1,0 +1,20 @@
+.join-us-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+ 
+.join-us-text1 {
+  color: rgb(255, 255, 255);
+  display: inline-block;
+  font-size: 64px;
+  text-transform: capitalize;
+}
+ 
+.join-us-text2 {
+  color: var(--color-accent);
+  display: inline-block;
+}
